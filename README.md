@@ -2,7 +2,7 @@
 
 Skills: Python/Flask/Pytest, JavaScript/React, MySQL, Heroku & AWS
 
-🔭 I’m currently working on Automated testing for CYA API 
+🔭 I’m currently working on OpenAPI/Swagger-UI doc and automated testing for CYA API 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alankan203/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/alankan2004)  
 
