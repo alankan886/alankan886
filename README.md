@@ -1,15 +1,19 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
-### I'm Alan, I build some Python tools in my free time to help me learn.
-
-### 💻 Technologies I use at work & at home are...
+I'm Alan, a fan of Python and Golang.
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50">
+<img src="https://github.com/egonelbre/gophers/blob/master/.thumb/animation/gopher-dance-long-3x.gif" width="50" height="50">
 </p>
+
+### 💻 Hobby Projects
+- [SuperMemo2](https://github.com/alankan886/SuperMemo2), a spaced repetition algorithm package writtien in Python.
+- [CyaAPI](https://github.com/alankan886/CyaAPI), an API built in FastAPI(Python) for spaced reptition learning.
+
+### 🌐 Open Source Contributions
+**[Mattermost](https://github.com/mattermost)**
+  - [mattermost/mattermost-plugin-incident-collaboration](https://github.com/mattermost/mattermost-plugin-incident-collaboration)
+    - [Issue#17468](https://github.com/mattermost/mattermost-server/issues/17468), [PR#549](https://github.com/mattermost/mattermost-plugin-incident-collaboration/pull/549#event-4747364458)
+
+**[Target](https://github.com/target)**
+  - [target/flottbot](https://github.com/target/flottbot)
+    - [Issue#66](https://github.com/target/flottbot/issues/66), [PR#173](https://github.com/target/flottbot/pull/173)
