@@ -6,8 +6,9 @@ I'm Alan, a fan of Python and Golang.
 </p>
 
 ### 💻 Hobby Projects
-- [SuperMemo2](https://github.com/alankan886/SuperMemo2), a spaced repetition algorithm package writtien in Python.
+- [SuperMemo2](https://github.com/alankan886/SuperMemo2), a spaced repetition algorithm package called SM-2 writtien in Python.
 - [CyaAPI](https://github.com/alankan886/CyaAPI), an API built in FastAPI(Python) for spaced reptition learning.
+  - I found this website called [Zorbi](https://zorbi.com/) that uses the SM-2 algorithm, essentially doing what I want to achieve with CyaAPI, so I been using that since instead.
 
 ### 🌐 Open Source Contributions
 **[Mattermost](https://github.com/mattermost)**
